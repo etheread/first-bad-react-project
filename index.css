@@ -1,0 +1,22 @@
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: aliceblue;
+}
+.mainButton{
+  background-color: beige;
+  color: black;
+  border-color: beige;
+  border-radius: 4px;
+}
+.socialMedia{
+  background-color: beige;
+  color: black;
+  border-color: beige;
+  border-radius: 4px;
+}
+.socialMedia:hover{
+  background-color: azure;
+}
+.mainButton:hover{
+  background-color: azure;
+}
